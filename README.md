@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Atlas527
-- 👀 I’m interested in ... gaming, hunting, and learing
+- 👀 I’m interested in ... gaming, programming, and learing
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
